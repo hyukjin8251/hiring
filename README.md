@@ -57,6 +57,10 @@ Revenue Operations Tribe의 Business Performance & AX팀은 **간편결제 · �
 
 ---
 
+## 이 팀이 만드는 것들
+
+- 📊 [sales-ops-ai-skills](https://github.com/hyukjin8251/sales-ops-ai-skills): 사업 직무가 스스로 분석할 수 있게 돕는 AI 스킬과 데이터 마트 설계 가이드 예제
+
 ## 지원하기
 
 근무 조건, 전형 절차 등 자세한 내용은 공식 채용 페이지에서 확인하고 지원해 주세요.

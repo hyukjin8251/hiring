@@ -1,4 +1,4 @@
-# 🚀 Business Analyst를 채용하고 있어요
+# 🚀 Business Analyst(BA) 채용 | Sales Operations · AI Agent · AX
 
 **Revenue Operations Tribe · Business Performance & AX팀**
 
@@ -6,7 +6,13 @@ BA를 채용하고 있습니다. 많은 관심 부탁드립니다.
 
 👉 **[공식 채용 공고 보기 & 지원하기](https://toss.im/career/job-detail?job_id=6279876003)**
 
-`Business Analyst` `Sales Operations` `Data Mart` `AI Agent` `AX Consulting`
+`Business Analyst` `Sales Operations` `Revenue Operations` `Data Mart` `AI Agent` `AX Consulting`
+
+> **We're hiring a Business Analyst (5+ yrs).** Analyze sales productivity and build AI environments — data marts, knowledge bases, agents, plugins and skills — so business teams can analyze data and build AI agents on their own. [Apply here](https://toss.im/career/job-detail?job_id=6279876003).
+
+| 직무 | 경력 | 핵심 키워드 |
+|---|---|---|
+| Business Analyst | 5년 이상 | 영업 생산성 분석 · 세일즈 퍼널 · 목표/전망 갭 분석 · 데이터 마트 · AI 에이전트 · AX 컨설팅 |
 
 ---
 
@@ -57,5 +63,5 @@ Revenue Operations Tribe의 Business Performance & AX팀은 **간편결제 · �
 
 ### 👉 [지원하러 가기](https://toss.im/career/job-detail?job_id=6279876003)
 
-포지션에 대해 궁금한 점은 이 레포의 [Issues](../../issues/new/choose)에 남겨 주세요.
+포지션에 대해 궁금한 점은 이 레포의 [Issues](https://github.com/hyukjin8251/hiring/issues/new/choose)에 남겨 주세요.
 > ⚠️ 이슈는 공개돼요. 이력서나 연락처 같은 개인정보는 남기지 말고, 지원은 공식 채용 페이지에서 해 주세요.
